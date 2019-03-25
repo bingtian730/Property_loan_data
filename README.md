@@ -1,5 +1,5 @@
 # Property_loan_data
-I chose the loan prosper file to did the data analysis. This data set is the information of the loan borrowers.
+I chose the loan prosper file to do the data analysis. This data set is the information of the loan borrowers.
 Univariate Exploration :
 1. I got a histogram of the borrowerAPR to see the distribution of the borrowerAPR, and most of borrowers’ APR are concentrated at 0.15-0.3.
 2. From the histogram of the borrowers’ stated monthly income. I can see the majority borrowers’ income is concentrated at 3000-6000.
